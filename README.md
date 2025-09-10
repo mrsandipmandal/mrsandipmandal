@@ -16,12 +16,19 @@ Welcome to my GitHub profile!
 - **Others:** HTML, CSS, REST APIs
 
 ## 📂 Projects
-- 🔗 [Web Crawler](https://github.com/mrsandipmandal/crawled)
-- 🔗 [Excel Search](https://github.com/mrsandipmandal/excel_search_app)
-- 🔗 [Face Recognition Attendance](https://github.com/mrsandipmandal/deepface_512d_face_recognition_attendance)
+- 🔗 [Laravel Api](https://github.com/mrsandipmandal/laravel-api)
+- 🔗 [PHP JWT Token](https://github.com/mrsandipmandal/jwtToken)
+- 🔗 [PHP Web Crawler](https://github.com/mrsandipmandal/crawled)
+- 🔗 [Socal Media Login](https://github.com/mrsandipmandal/socal_login)
+- 🔗 [Django Excel Search](https://github.com/mrsandipmandal/excel_search_app)
+- 🔗 [Flask Face Recognition Attendance System](https://github.com/mrsandipmandal/Flask-Face-Recognition-Attendance-System)
+- 🔗 [Django based face recognition attendance system](https://github.com/mrsandipmandal/FaceAttendance)
+- 🔗 [Mini LLM Model](https://github.com/mrsandipmandal/mini-llm)
 - 🔗 [Compress](https://github.com/mrsandipmandal/compression)
-- 🔗 [JWT Token](https://github.com/mrsandipmandal/jwtToken)
-- 🔗 [React Native App](https://github.com/sandipmandal/react-native-app)
+- 🔗 [NextJs Admin](https://github.com/mrsandipmandal/next_admin)
+- 🔗 [React Native Navigations](https://github.com/mrsandipmandal/reactNativeNavigations)
+- 🔗 [React Native Project](https://github.com/mrsandipmandal/MyNewProject)
+
 
 ## 📫 How to reach me
 - 📧 Email: mr_sandip@outlook.com
