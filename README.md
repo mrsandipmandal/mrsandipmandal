@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 - 🔗 [React Native App](https://github.com/sandipmandal/react-native-app)
 
 ## 📫 How to reach me
-- 📧 Email: sandip@example.com
+- 📧 Email: mr_sandip@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/sandipmandal/)
 - 🐦 [Twitter](https://twitter.com/sandipmandal)
 
