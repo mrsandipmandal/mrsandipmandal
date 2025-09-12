@@ -33,7 +33,7 @@ Welcome to my GitHub profile!
 
 ## 📫 How to reach me
 - 📧 Email: mr_sandip@outlook.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/sandipmandal/)
+- 💼 [LinkedIn](https://in.linkedin.com/in/mr-sandip-mandal)
 - 🐦 [Twitter/X](https://x.com/mr_sandipmandal)
 
 Thanks for visiting my profile! 🚀
